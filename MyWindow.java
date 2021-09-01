@@ -23,7 +23,7 @@ public class MyWindow extends Frame {
         Font sansSerifLarge = new Font("SansSerif", Font.BOLD, 18);
         Font sansSerifSmall = new Font("SansSerif", Font.BOLD, 12);
         g.setFont(sansSerifLarge);
-        g.drawString("The Complete Java Developer Course", 60, 60);
+        g.drawString("This is a place to type text", 60, 60);
         g.setFont(sansSerifSmall);
         g.drawString("by Jason Comstock", 60, 100);
     }
